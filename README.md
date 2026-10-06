@@ -3,7 +3,7 @@
 A Cloudflare Worker that embeds SOC 2 control descriptions with Workers AI, stores them in
 Vectorize, and exposes semantic search plus an LLM-powered gap analysis endpoint (RAG).
 
-**Stack:** Workers · Workers AI (`bge-base-en-v1.5`, `llama-3.1-8b-instruct`) · Vectorize
+**Stack:** Workers · Workers AI (`bge-base-en-v1.5`, `llama-3.3-70b-instruct-fp8-fast`) · Vectorize
 
 ## Setup
 ```bash
