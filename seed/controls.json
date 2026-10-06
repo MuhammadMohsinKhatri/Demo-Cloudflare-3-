@@ -1,0 +1,17 @@
+[
+  {"id":"CC3.2","criteria":"Risk Assessment","text":"The organization identifies risks to achieving its objectives, analyzes them to decide how to manage them, and considers threats such as fraud, vendor failure and technology change."},
+  {"id":"CC5.2","criteria":"Control Activities","text":"The organization selects and develops general technology controls, including infrastructure, security management and technology acquisition, to support its objectives."},
+  {"id":"CC6.1","criteria":"Logical and Physical Access","text":"Logical access security software, infrastructure and architectures protect information assets: authentication, role-based access, encryption of data at rest and in transit, and network segmentation."},
+  {"id":"CC6.2","criteria":"Logical and Physical Access","text":"Before credentials are issued, users are registered and authorized. Access is removed promptly when no longer needed, such as on termination or role change, and periodic user access reviews are performed."},
+  {"id":"CC6.3","criteria":"Logical and Physical Access","text":"Access is granted, modified and removed based on least privilege and segregation of duties, following approval by data or system owners."},
+  {"id":"CC6.6","criteria":"Logical and Physical Access","text":"Boundary protections such as firewalls, web application firewalls, and DDoS mitigation guard against threats from outside the system boundary."},
+  {"id":"CC6.7","criteria":"Logical and Physical Access","text":"Transmission, movement and removal of information is restricted to authorized parties and protected with encryption and data loss prevention controls."},
+  {"id":"CC7.1","criteria":"System Operations","text":"Detection and monitoring procedures identify configuration changes and newly discovered vulnerabilities, including regular vulnerability scanning and penetration testing."},
+  {"id":"CC7.2","criteria":"System Operations","text":"The system is monitored for anomalies indicating malicious acts, natural disasters and errors. Logs are collected, retained, reviewed and alerts are raised for suspicious activity."},
+  {"id":"CC7.3","criteria":"System Operations","text":"Security events are evaluated to determine whether they are incidents, with a documented triage process and defined severity levels."},
+  {"id":"CC7.4","criteria":"System Operations","text":"The organization responds to security incidents using a documented incident response plan covering containment, remediation, communication and post-incident review."},
+  {"id":"CC8.1","criteria":"Change Management","text":"Changes to infrastructure, data, software and procedures are authorized, designed, tested, approved and implemented, including code review, separate environments and rollback plans."},
+  {"id":"CC9.2","criteria":"Risk Mitigation","text":"The organization assesses and manages risks associated with vendors and business partners, including due diligence, contracts and ongoing monitoring."},
+  {"id":"A1.2","criteria":"Availability","text":"Environmental protections, backup processes and recovery infrastructure are designed, implemented and tested to meet availability commitments, including disaster recovery testing."},
+  {"id":"C1.1","criteria":"Confidentiality","text":"Confidential information is identified, classified and protected, and is retained and disposed of according to policy."}
+]
