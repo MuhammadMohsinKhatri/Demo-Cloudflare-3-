@@ -1,0 +1,13 @@
+{
+  "name": "soc2-vectorize-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "create-index": "wrangler vectorize create soc2-controls --dimensions=768 --metric=cosine"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
